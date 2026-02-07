@@ -1,1 +1,1 @@
-s # this is for looging the details
+# this is for looging the details
